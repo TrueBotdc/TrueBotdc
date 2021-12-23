@@ -1,7 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Veli</h1>
 <h3 align="center">Ben Ankarada Yaşıyorum Web Site Kodlamayı Çok Severim :)</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
